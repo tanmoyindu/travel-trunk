@@ -1,4 +1,4 @@
-# -Travel-Trunk
+# Travel-Trunk
 Travel Trunk: Your Ultimate Travel Packing Companion
 
 # Description:
