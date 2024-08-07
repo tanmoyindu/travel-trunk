@@ -16,7 +16,5 @@ Clear List Functionality: Clear your entire packing list at once, providing a fr
 
 User-Friendly Interface: Travel Trunk offers a clean and intuitive user interface, making it simple for users of all levels to navigate and utilize its features effectively.
 
-# Get Started:
-  Check the Travel-Trunk here: http://traveltrunk.tanmoyin.de/
 
   #HappyTravels #TravelTrunk #PackingMadeEasy
