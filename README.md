@@ -1,7 +1,7 @@
 # Travel-Trunk
 Travel Trunk: Your Ultimate Travel Packing Companion
 
-# Check the Travel-Trunk here: http://traveltrunk.tanmoyin.de/
+Check the Travel-Trunk here: http://traveltrunk.tanmoyin.de/
 
 # Description:
 Traveling can be both exciting and stressful, especially when it comes to packing. With "Travel Trunk," say goodbye to the hassle of packing and hello to organized travel adventures! Travel Trunk is a React app designed to streamline your packing process, ensuring you never forget essential items for your trip again.
